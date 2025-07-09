@@ -10,4 +10,4 @@
 
 在这些视频平台上，你将能够找到种类繁多的原创内容，从生活记录到各类刺激的娱乐节目。每个平台都提供清晰流畅的播放体验，无需担心卡顿问题。你可以自由选择不同类别的视频，无论是追求剧情、还是享受高清画质，都能满足你的需求。每个视频的页面都配备了详细的信息说明，让你快速了解影片的基本内容和特色。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mt20250709/mt12 ）</span>
